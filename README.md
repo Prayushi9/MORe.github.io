@@ -1,4 +1,4 @@
-# 26 - Self-Supervised Mesh Object Retrieval
+# Self-Supervised Mesh Object Retrieval
 Supplementary Material
 
 ## Getting Started
